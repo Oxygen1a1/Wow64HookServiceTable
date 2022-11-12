@@ -1,0 +1,3 @@
+﻿  Assembling WowHook.asm...
+  dllmain.cpp
+  Wow64ServiceTableHook.vcxproj -> C:\Users\Administrator\Desktop\Wow64HookServiceTable\Wow64ServiceTableHook\x64\Debug\Wow64ServiceTableHook.dll

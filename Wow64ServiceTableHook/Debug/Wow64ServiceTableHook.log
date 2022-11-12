@@ -1,0 +1,3 @@
+﻿  dllmain.cpp
+dllmain.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+  Wow64ServiceTableHook.vcxproj -> C:\Users\Administrator\Desktop\Wow64HookServiceTable\Wow64ServiceTableHook\Debug\Wow64ServiceTableHook.dll
